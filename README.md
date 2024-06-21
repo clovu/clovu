@@ -6,7 +6,7 @@ Hey! I am "Clover You", born in 2002 years. You can call me "Clover" or "尤渔"
 
 I want to make some contributions to open source. But I'm not that smart...
 
-this is my blog website: [GO](https://www.ctong.top)
+This is my blog website: [GO](https://www.ctong.top)
 
 ## 💬 Worked language for me
 - [x] Golang / Java
