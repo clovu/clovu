@@ -1,14 +1,15 @@
-### Hi there 👋
+# 🥳 Hello World
 
-Here are some ideas to get you started:
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Clover-You">
 
-- 🔭 I’m currently working on Rust and Golang
-- 🌱 I’m currently learning Rust and Golang
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hey! I am "Clover You", born in 2002 years. You can call me "Clover" or "尤渔"
 
-![](https://github-readme-stats.vercel.app/api?username=Clover-You)
+## 💬 Worked language for me
+- [x] Golang / Java
+- [x] TypeScript / JavaScript
+- [ ] Rust (ing...)
+
+## 👀 Hobby
+- Read novel
+- Listen songs
+- Genshin Impact :)
