@@ -6,7 +6,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Clover-You&show_icons=true&theme=radical">
 
-Hello, I'm Clover You (You can call me "Youyu"). A developer wandering through the code cosmos, eager to sow clover seeds in the open-source world!
+Hello, I'm Clover You (You can call me '尤渔'). A developer wandering through the code cosmos, eager to sow clover seeds in the open-source world!
 
 Born in 2002, though still a nascent star yet to leave brilliant trails in the open-source galaxy, I always carry the devotion to offer firefly-like contributions to the open-source sanctuary——be it polishing a line of documentation or fixing a tiny bug, each is my cautious signature on the grand scroll of open source.
 
