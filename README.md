@@ -1,20 +1,33 @@
-# 🥳 Hello World
+# Hi there
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Clover-You">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Clover-You&show_icons=true&theme=radical">
 
-Hey! I'm Clover, born in 2002. You can call me 'Clover' or '尤渔'. 
+Hello, I'm Clover You (You can call me "Youyu"). A developer wandering through the code cosmos, eager to sow clover seeds in the open-source world!
 
-I want to contribute to the open source community, but I don't consider myself very intelligent. As someone with limited ideas, if you have any good suggestions, please let me know. I would love to hear them.
+Born in 2002, though still a nascent star yet to leave brilliant trails in the open-source galaxy, I always carry the devotion to offer firefly-like contributions to the open-source sanctuary——be it polishing a line of documentation or fixing a tiny bug, each is my cautious signature on the grand scroll of open source.
 
-This is my blog website: <a target="_blank" href="https://www.ctong.top"> GO </a>
+But I'm kinda clumsy and lack brilliant ideas. So if you have any suggestions, please let me know. I'd love to hear them.
 
-## 💬 Worked language for me
+[![Tech Blog](https://img.shields.io/badge/Blog-ctong.top-FFA500)](http://www.ctong.top) [![Bilibili](https://img.shields.io/badge/BiLiBiLi-348402900-FB7299)](https://space.bilibili.com/348402900)
 
-- [x] Golang / Java
-- [x] TypeScript / JavaScript
-- [ ] Rust (ing...)
+## 💬  Languages & Frameworks
 
-## 👀 Hobby
-- Read novel
-- Listen songs
-- Genshin Impact :)
+- [ ] Golang (Gopher is still digging~ be patient 🐒)
+- [x] TypeScript / JavaScript  
+- [ ] Rust (Currently in quantum entanglement with ownership system... 🤯)
+- [ ] Tauri (Trying to give Electron battery anxiety ⚡)
+- [x] Next.js/Vue3 (Mastered the proper incantations of You-style magic ✨)
+- [x] Java (Proficient in Spring Boot's encyclopedia of creative errors 📚)
+
+**Current README certified by 「It Runs™」**
+
+## Hobbies
+
+- 🎮 Professional mundane wanderer, enjoying treasure hunts left by mysterious figures in Teyvat while listening to the whispers of journey :)
+  UID: 146437345  
+- 📖 Novel reading **🐾** When protagonists enter quantum entanglement mode——this straight guy's CPU fan speed becomes positively correlated with "auntie-smile" curvature 📈  
+- 🎧 Music
+
+~~🙉 This guy is either creating new folders or on the way to create new ones 🐶~~ (Scratched out)
+
+> Code and starlight shall meet at a certain commit ✨
