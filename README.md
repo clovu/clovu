@@ -1,3 +1,7 @@
+<p align="center">Code and starlight shall meet at a certain commit ✨</p>
+
+<p align="center">English | <a href="README.zh-CN.md">中文</a></p>
+
 # Hi there
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Clover-You&show_icons=true&theme=radical">
@@ -29,5 +33,3 @@ But I'm kinda clumsy and lack brilliant ideas. So if you have any suggestions, p
 - 🎧 Music
 
 ~~🙉 This guy is either creating new folders or on the way to create new ones 🐶~~ (Scratched out)
-
-> Code and starlight shall meet at a certain commit ✨
