@@ -4,7 +4,7 @@
 
 # Hi there
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Clover-You&show_icons=true&theme=radical">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=clovu&show_icons=true&theme=radical">
 
 Hello, I'm Clover You, you can cell me '尤渔' (Youyu). A developer wandering through the code cosmos, eager to plant clover seeds in the open-source world!
 
