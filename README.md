@@ -6,7 +6,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=clovu&show_icons=true&theme=radical">
 
-Hello, I'm Clover You, you can cell me '尤渔' (Youyu). A developer wandering through the code cosmos, eager to plant clover seeds in the open-source world!
+Hello, I'm Clover You, you can cell me 'Clover' or my Chinese name '尤渔' (Youyu). A developer wandering through the code cosmos, eager to plant clover seeds in the open-source world!
 
 Born in 2002, like a nascent star yet to leave brilliant trails in the open-source galaxy, I always carry the devotion to offer firefly-like contributions to the open-source sanctuary—whether it's polishing documentation lines or fixing tiny bugs, each is my cautious signature on the grand scroll of open-source.
 
