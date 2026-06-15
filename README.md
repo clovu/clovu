@@ -33,3 +33,6 @@ But I'm a bit of a clueless potato 🥔 – my brain isn't exactly overflowing w
 - 🎧 Music
 
 ~~🙉 This human is either creating new folders or en route to create new folders 🐶~~ (scratched out)
+
+
+![](/profile-3d-contrib/profile-custom-gitblock.svg)
